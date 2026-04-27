@@ -6,8 +6,8 @@
 		]
 	},
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
+		"name": "Shovel Land Claim v1.0.5",
+		"description": "Welcome to Shovel Land Claim! This addon allows you to protect your builds from griefing and looting. It works similarly to the Java Golden Shovel mod.",
 		"min_engine_version": [
 			1,
 			20,
