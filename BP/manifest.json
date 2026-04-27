@@ -7,8 +7,8 @@
 		]
 	},
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
+		"name": "Shovel Land Claim",
+		"description": "This custom shovel addon allows you to claim & manage various pieces of land(MP & SP Compatible & Achievement Friendly)",
 		"min_engine_version": [
 			1,
 			20,
